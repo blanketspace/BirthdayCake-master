@@ -22,7 +22,7 @@ public class CakeView extends SurfaceView {
         and adapting to different tablets' screen sizes and resolutions.  I've deliberately
         stuck with hard-coded values here to ease the introduction for CS371 students.
      */
-    public static final float cakeTop = 400.0f;
+    public static final float cakeTop = ; //400.0f
     public static final float cakeLeft = 100.0f;
     public static final float cakeWidth = 1200.0f;
     public static final float layerHeight = 200.0f;
